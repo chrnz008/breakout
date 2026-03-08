@@ -1,12 +1,12 @@
 # breakout
 ----
 
+- play [at](https://chrnz008.github.io/breakout)
+
 ```rust
 todo!();
 ```
-- add villans
-- split the collision logic
-- fix the collision bug
+- better villan layout
 
 a [breakout](https://en.wikipedia.org/wiki/Breakout_(video_game)) clone in rust
 made with [macroquad](https://macroquad.rs)
