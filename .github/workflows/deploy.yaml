@@ -30,6 +30,7 @@ jobs:
           mkdir -p ./deploy
           cp ./target/wasm32-unknown-unknown/release/breakout.wasm ./deploy/
           cp index.html ./deploy/
+          cp mq_js_bundle.js ./deploy/
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
