@@ -11,7 +11,7 @@ todo!();
 a [breakout](https://en.wikipedia.org/wiki/Breakout_(video_game)) clone in rust
 made with [macroquad](https://macroquad.rs)
 
-![thumbnail](ferris-gamer.png)
+![thumbnail](https://mq.agical.se/images/ferris-gamer.png)
 
 
 run it with: `cargo r`
